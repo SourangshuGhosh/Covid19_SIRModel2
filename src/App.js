@@ -325,8 +325,8 @@ function App() {
             simulations.
           </p>
           <p>
-            <a href="https://github.com/fatiherikli/coronavirus-simulation">
-              https://github.com/fatiherikli/coronavirus-simulation
+            <a href="https://github.com/SourangshuGhosh/Covid19_SIRModel2">
+              https://github.com/SourangshuGhosh/Covid19_SIRModel2
             </a>
           </p>
 
