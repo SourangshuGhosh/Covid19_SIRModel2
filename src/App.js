@@ -325,14 +325,14 @@ function App() {
             simulations.
           </p>
           <p>
-            <a href="https://github.com/fatiherikli/coronavirus-simulation">
-              https://github.com/fatiherikli/coronavirus-simulation
+            <a href="https://github.com/SourangshuGhosh/Covid19_SIRModel2">
+              https://github.com/SourangshuGhosh/Covid19_SIRModel2
             </a>
           </p>
 
           <p style={{ marginBottom: "4em" }}>
             Thanks for reading this article, and stay safe! <br />{" "}
-            <a href="https://twitter.com/fthrkl">@fthrkl</a>
+            <a href="https://sourangshughosh.github.io">My Personal Website</a>
           </p>
         </div>
       </div>
