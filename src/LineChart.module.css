@@ -1,0 +1,32 @@
+.lineChart {
+  background-size: 10px 10px;
+  background-image:
+    linear-gradient(to right, #dedede 1px, transparent 1px),
+    linear-gradient(to bottom, #dedede 1px, transparent 1px);
+  border-right: 1px solid #dedede;
+  border-bottom: 1px solid #dedede;
+}
+
+.labelY {
+  position: absolute;
+  transform: rotate(-90deg);
+  display: inline-block;
+  /*background: yellow;*/
+  font-size: 0.8em;
+  margin-left: -10.7em;
+  margin-top: 15em;
+  color: gray;
+  width: 20em;
+  text-align: center;
+}
+
+.labelX {
+  text-align: center;
+  position: absolute;
+  display: inline-block;
+  width: 20em;
+  margin-left: -25em;
+  margin-top: 21.2em;
+  color: gray;
+  font-size: 0.8em;
+}

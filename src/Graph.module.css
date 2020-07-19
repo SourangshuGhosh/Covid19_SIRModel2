@@ -1,0 +1,38 @@
+.node {
+  cursor: pointer;
+  stroke-width: 0;
+}
+
+.venue {
+	fill: white;
+	stroke: #dedede;
+	cursor: pointer;
+}
+
+/*.house { fill: red; }
+.hospital { fill: blue; }
+.supermarket { fill: yellow; }*/
+
+.hospital, .teatr, .station, .supermarket {
+	fill: yellow;
+}
+
+.susceptible {
+	fill: #e5dfdf;
+}
+
+.dead {
+	fill: black;
+}
+
+.sick {
+	fill: #ff677d;
+}
+
+.recovered {
+	fill: #75daad;
+}
+
+.lockedSymbol {
+	cursor: pointer;
+}
